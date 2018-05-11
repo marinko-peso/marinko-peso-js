@@ -1,0 +1,50 @@
+{
+  "name": "marinko-peso",
+  "version": "0.0.0",
+  "description": "marinko-peso's cli",
+  "bin": {
+    "marinko-peso": "cli.js"
+  },
+  "scripts": {
+    "preinstall": "node ./preinstall.js",
+    "lint": "eslint .",
+    "release": "np --yolo"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinko-peso/marinko-peso-js.git"
+  },
+  "keywords": [
+    "marinko",
+    "marinko-peso",
+    "cli"
+  ],
+  "author": {
+    "email": "marinko.peso+dev@gmail.com",
+    "name": "Marinko Peso",
+    "url": "github.com/marinko-peso"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marinko-peso/marinko-peso-js/issues"
+  },
+  "homepage": "https://github.com/marinko-peso/marinko-peso-js#readme",
+  "dependencies": {
+    "ansi-blue": "^0.1.1",
+    "exit-hook": "^2.0.0",
+    "opn": "^5.3.0",
+    "prompt-list": "^3.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-semistandard": "^12.0.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
