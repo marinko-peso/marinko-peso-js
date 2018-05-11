@@ -1,4 +1,4 @@
-# [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![package version](https://img.shields.io/npm/v/vladimyr.svg)](https://npm.im/marinko-peso) [![github license](https://img.shields.io/github/license/marinko-peso/marinko-peso-js.svg)](https://github.com/marinko-peso/marinko-peso/blob/master/LICENSE)
+# [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![package version](https://img.shields.io/npm/v/marinko-peso.svg)](https://npm.im/marinko-peso) [![github license](https://img.shields.io/github/license/marinko-peso/marinko-peso-js.svg)](https://github.com/marinko-peso/marinko-peso/blob/master/LICENSE)
 
 > marinko-peso's CLI
 
