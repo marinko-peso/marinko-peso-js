@@ -1,6 +1,6 @@
-# vladimyr [![build status](https://travis-ci.com/vladimyr/vladimyr.svg?branch=master)](https://travis-ci.com/vladimyr/vladimyr) [![package version](https://img.shields.io/npm/v/vladimyr.svg)](https://npm.im/vladimyr) [![github license](https://img.shields.io/github/license/vladimyr/vladimyr.svg)](https://github.com/vladimyr/vladimyr/blob/master/LICENSE)
+# [![github license](https://img.shields.io/github/license/marinko-peso/marinko-peso-js.svg)](https://github.com/marinko-peso/marinko-peso/blob/master/LICENSE)
 
-> vladimyr's CLI
+> marinko-peso's CLI
 
 <img src="screenshot.png">
 
@@ -9,9 +9,9 @@
 Install Node.js, then:
 
 ```
-$ npx vladimyr
+$ npx marinko-peso
 ```
 
 ## Acknowledgments
 
-Inspired by @sindresorhus's awesome [CLI](https://github.com/sindresorhus/sindresorhus).
+Inspired by @sindresorhus's awesome [CLI](https://github.com/sindresorhus/sindresorhus) and forked from [vladimyr](https://github.com/vladimyr/vladimyr)
