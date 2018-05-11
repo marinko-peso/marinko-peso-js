@@ -1,6 +1,6 @@
 {
   "name": "marinko-peso",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "marinko-peso's cli",
   "bin": {
     "marinko-peso": "cli.js"
